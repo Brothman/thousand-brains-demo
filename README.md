@@ -82,7 +82,7 @@ thousand-brains-demo/
 
 ### Why a game?
 
-Based on my discussions with Viviene, we both agreed an interactive tutorial teaches us far better than a static explanation. A browser game makes the idea concrete: the user experiences the same limitation as the agent. They cannot see the hidden object. They must move, gather sensations, and let the evidence update their beliefs.
+Based on my discussions with Viviane, we both agreed an interactive tutorial teaches us far better than a static explanation. A browser game makes the idea concrete: the user experiences the same limitation as the agent. They cannot see the hidden object. They must move, gather sensations, and let the evidence update their beliefs.
 
 ### Why this sensory model?
 
