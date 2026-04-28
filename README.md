@@ -2,9 +2,9 @@
 
 This project is a small, interactive React browser game that demonstrates three core ideas from the Thousand Brains Theory:
 
-> **Movement + sensation = understanding.**
-> **Reference Frames help locate models of objects in space**
-> **Voting by sharing data helps predict an accurate model of reality**
+- **Movement + sensation = understanding.**
+- **Reference Frames help locate models of objects in space**
+- **Voting by sharing data helps predict an accurate model of reality**
 
 The learner controls a robotic agent on a grid object containing a hidden object. At each step, the agent receives a local binary sensory label — `empty` or `filled` — and the interface narrows the possible hidden shapes by comparing the observations against candidate object models.
 
@@ -20,7 +20,7 @@ It is intentionally simple enough to read and play within one sitting, but polis
 ## What it teaches
 
 1. **Active sensing** — perception improves when the agent moves and samples the world.
-2. **Candidate models** — each hidden shape predicts different empty/filled readings at different locations.
+2. **Candidate models** — each shape requires different empty/filled readings to be the hidden model we're experiencing.
 3. **Object-centered reference frames** — states become useful when stored as states at locations relative to an object.
 4. **Voting / narrowing** — as observations accumulate, inconsistent candidate shapes are eliminated.
 
